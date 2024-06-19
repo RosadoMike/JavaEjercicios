@@ -3,7 +3,7 @@
 Universidad Tecnologica Metropolitana
 </P>
 
-- Nombre del alumno: Miguel AAngel Rosado Montuy
+- Nombre del alumno: Miguel Angel Rosado Montuy
 - Profesor: Diego Ivan May Tuz
 - Actividad:  Ejercicios practicos JavaScript
 - Cuatrimeste: 3
